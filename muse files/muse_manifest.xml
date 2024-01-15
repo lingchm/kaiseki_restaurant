@@ -1,0 +1,205 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.kaiseki.es" resolutions="1x" timestamp="1602031080024">
+  <folder name="css">
+    <file name="site_global.css" crc="4013484829"/>
+    <file name="master_a-p_g_-maestra.css" crc="22025544" ref="donde-estamos:index:novedades:curiosidades"/>
+    <file name="master_b-p_g_-maestra.css" crc="4138766918" ref="gracias-por-contactar:contacto-cornella:contacto-sant-feliu"/>
+    <file name="gracias-por-contactar.css" crc="4196988686" ref="gracias-por-contactar"/>
+    <file name="donde-estamos.css" crc="109212490" ref="donde-estamos"/>
+    <file name="contacto-cornella.css" crc="230358532" ref="contacto-cornella"/>
+    <file name="index.css" crc="4215684723" ref="index"/>
+    <file name="novedades.css" crc="4163671054" ref="novedades"/>
+    <file name="contacto-sant-feliu.css" crc="4213842286" ref="contacto-sant-feliu"/>
+    <file name="curiosidades.css" crc="526810900" ref="curiosidades"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="museutils.js" crc="4216313831" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="whatinput.js" crc="86476730" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="webpro.js" crc="4143865194" ref="index:donde-estamos:contacto-cornella:contacto-sant-feliu:novedades"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:donde-estamos:novedades"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:donde-estamos:novedades"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:donde-estamos:novedades"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="require.js" crc="3951022091" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades"/>
+    <file name="form_check.php" crc="154010282" ref="contacto-cornella"/>
+    <file name="form_throttle.php" crc="266437015" ref="contacto-cornella"/>
+    <file name="form_process.php" crc="512629711" ref="contacto-cornella"/>
+    <file name="form-u3068.php" crc="3999750165" ref="contacto-cornella"/>
+    <file name="form-u3097.php" crc="3821522300" ref="contacto-sant-feliu"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="novedades"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:curiosidades:donde-estamos:contacto-sant-feliu:novedades"/>
+    <file name="u614.png" crc="4036840929" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u614-a.png" crc="3846879729" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u4003.png" crc="15794964" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u4003-a.png" crc="4009704870" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u8488.png" crc="397930279" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u8488-a.png" crc="451392745" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u4037.png" crc="4066423830" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="u4037-a.png" crc="3955796927" ref="index:curiosidades:donde-estamos:novedades"/>
+    <file name="abanico_fondotransparente_png.png" crc="4202126976" seo="true" ref="index:curiosidades:donde-estamos:contacto-cornella:contacto-sant-feliu:gracias-por-contactar:novedades">
+      <caption webpage="contacto-cornella" alt=""/>
+      <caption webpage="contacto-sant-feliu" alt=""/>
+      <caption webpage="curiosidades" alt=""/>
+      <caption webpage="gracias-por-contactar" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="novedades" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9189final.jpg" crc="4169373736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9414final.jpg" crc="31646339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_2.jpg" crc="3769982446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9428final.jpg" crc="504198676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9227final2.jpg" crc="521233615" seo="true" ref="index">
+      <caption webpage="index" alt="Restaurantes Kaiseki, foto sashimi"/>
+    </file>
+    <file name="img_9281final.jpg" crc="91546504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9284final.jpg" crc="506085226" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1.jpg" crc="4289733696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9237final.jpg" crc="142981471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:donde-estamos:novedades"/>
+    <file name="img_9313final2-crop-u3341.jpg" crc="452652704" seo="true" ref="index">
+      <caption webpage="index" alt="Kaiseki, nuestra carta, foto"/>
+    </file>
+    <file name="img_4.jpg" crc="267476578" seo="true" ref="index">
+      <caption webpage="index" alt="Kaiseki, curiosidades, foto"/>
+    </file>
+    <file name="img_9369final.jpg" crc="513869754" seo="true" ref="index">
+      <caption webpage="index" alt="Kaiseki, donde estamos y reservas, foto"/>
+    </file>
+    <file name="pago.jpg" crc="349061247" seo="true" ref="index:curiosidades:donde-estamos:novedades">
+      <caption webpage="index" alt=""/>
+      <caption webpage="novedades" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="curiosidades" alt=""/>
+    </file>
+    <file name="tripadvisor.jpg" crc="4115428209" seo="true" ref="index:curiosidades:donde-estamos:novedades">
+      <caption webpage="index" alt=""/>
+      <caption webpage="novedades" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="curiosidades" alt=""/>
+    </file>
+    <file name="instagram.jpg" crc="398335667" seo="true" ref="index:curiosidades:donde-estamos:novedades">
+      <caption webpage="index" alt=""/>
+      <caption webpage="novedades" alt=""/>
+      <caption webpage="donde-estamos" alt=""/>
+      <caption webpage="curiosidades" alt=""/>
+    </file>
+    <file name="jengibre-y-wasabi.jpg" crc="377792004" seo="true" ref="curiosidades">
+      <caption webpage="curiosidades" alt=""/>
+    </file>
+    <file name="palillos.jpg" crc="4006164962" seo="true" ref="curiosidades">
+      <caption webpage="curiosidades" alt=""/>
+    </file>
+    <file name="img_9231final.jpg" crc="24277946" seo="true" ref="curiosidades">
+      <caption webpage="curiosidades" alt=""/>
+    </file>
+    <file name="screen shot 2020-06-02 at 103241.jpg" crc="4062438793" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="wechatimg968.jpg" crc="4039103116" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="wechatimg966.jpg" crc="3773410681" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="screen shot 2020-06-02 at 104309.jpg" crc="4213878330" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="screen shot 2020-06-02 at 104657.jpg" crc="4217279488" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9411final.jpg" crc="4259004603" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9372final.jpg" crc="3827594613" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="screen shot 2020-06-02 at 104458.jpg" crc="4014551162" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9422final.jpg" crc="3966309652" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_5-crop-u2015.jpg" crc="447796842" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="wechatimg968-crop-u1913.jpg" crc="349152018" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="wechatimg966-crop-u2099.jpg" crc="241524640" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="screen shot 2020-06-02 at 104309-crop-u2029.jpg" crc="3958315167" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_3-crop-u2043.jpg" crc="162671551" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9411final-crop-u2057.jpg" crc="4120475822" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9372final-crop-u2071.jpg" crc="235988246" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="screen shot 2020-06-02 at 104458-crop-u2085.jpg" crc="4072558741" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="img_9422final-crop-u2113.jpg" crc="442483230" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="cornella portada.jpg" crc="4063466700" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="u3095-5.png" crc="218902093" ref="donde-estamos"/>
+    <file name="img_6.jpg" crc="4208399403" seo="true" ref="donde-estamos">
+      <caption webpage="donde-estamos" alt=""/>
+    </file>
+    <file name="u809-8.png" crc="3969964793" ref="donde-estamos"/>
+    <file name="u3395_states.png" crc="281365618" ref="contacto-sant-feliu"/>
+    <file name="u3395_states-r.png" crc="3889513264" ref="contacto-sant-feliu"/>
+    <file name="u3395_states-m.png" crc="283398955" ref="contacto-sant-feliu"/>
+    <file name="wechat image_20190102141338-crop-u9617.jpg" crc="78141992" seo="true" ref="novedades">
+      <caption webpage="novedades" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-06 at 190253.jpg" crc="3924751265" seo="true" ref="novedades">
+      <caption webpage="novedades" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-06 at 203411.jpg" crc="181501817" seo="true" ref="novedades">
+      <caption webpage="novedades" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-06 at 202040.jpg" crc="436194605" seo="true" ref="novedades">
+      <caption webpage="novedades" alt=""/>
+    </file>
+    <file name="screen shot 2020-10-06 at 202928.jpg" crc="370644330" seo="true" ref="novedades">
+      <caption webpage="novedades" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4225890106" seo="true" mt="1602031050706" redirect="true"/>
+  <file name="curiosidades.html" crc="3881656839" seo="true" mt="1602031050706" redirect="true"/>
+  <file name="donde-estamos.html" crc="190230269" seo="true" mt="1602031050706" redirect="true"/>
+  <file name="contacto-cornella.html" crc="3786422473" seo="true" mt="1602027322797" redirect="true"/>
+  <file name="contacto-sant-feliu.html" crc="13577166" seo="true" mt="1602027322797" redirect="true"/>
+  <file name="gracias-por-contactar.html" crc="167847321" seo="true" mt="1602027322797" redirect="true"/>
+  <file name="novedades.html" crc="230714260" seo="true" mt="1602031050706" redirect="true"/>
+</manifest>
