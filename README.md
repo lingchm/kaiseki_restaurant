@@ -11,3 +11,7 @@ This repository holds code for building the website for Kaiseki, a Japanese Rest
 
 ## Site designer 
 Initial design by Daniele Faccincani (danielebcn@yahoo.es). HTML implementation and maintenance by Lingchao Mao (lingchm@gmail.com). Reach out if you are interested in building a website for your business. 
+
+## TODO
+* add languages
+* cookies policy 
